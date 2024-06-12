@@ -221,6 +221,7 @@ body {
     height: 100vh;
     background-color: #f3f3f3;
     margin: 0;
+    position: relative;
 }
 
 .cake {
@@ -229,14 +230,6 @@ body {
     width: 100%;
 }
 
-.plate {
-    width: 300px;
-    height: 20px;
-    background-color: #ddd;
-    border-radius: 50%;
-    margin-top: -660px;
-
-}
 
 .cake-body {
     position: relative;
@@ -344,6 +337,10 @@ body {
     border-radius: 5px 5px 0 0;
 }
 
+#anh{
+    width: 20%;
+    margin-bottom: 50px;
+}
 
 
 
